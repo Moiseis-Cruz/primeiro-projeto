@@ -13,6 +13,10 @@
         align-items: center;
     }
 
+    .btn-seta:active {
+        background-color: #8351fe;
+    }
+
     .lista-pokemons {
         height: 480px;
     }
